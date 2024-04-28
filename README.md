@@ -7,6 +7,7 @@ This has been sourced by Kaggle - https://www.kaggle.com/datasets/dgomonov/new-y
 Data Collection method
 The original owners of this open data are ‘Inside Airbnb’, a mission driven project that provides data and advocacy about Airbnb's impact on residential communities. - https://insideairbnb.com
 Inside Airbnb relies on the kind contribution of a variety of collaborators and partners. The organization has a voluntary, independent advisory board that assists to build sustainability for the project and provides expertise, experience and accountability to help achieve its mission and vision, where communities are empowered with data and information to understand, decide and control the role of renting residential homes to tourists.
+
 The key questions below are framed to analyze how Airbnb is really being used and affecting the neighborhoods of your city.
 •	Is there a difference in demand based on the type of property such as single family house, shared accommodation etc.?
 •	Are the listed properties available throughout the year?
